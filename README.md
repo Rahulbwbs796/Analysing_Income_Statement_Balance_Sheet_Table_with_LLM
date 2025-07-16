@@ -128,7 +128,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-For any inquiries or feedback, please reach out to [Jitendra Kolli](jitendrakolli18@gmail.com).
+For any inquiries or feedback, please reach out to [rahul_kumar](rahulbwbs796@gmail.com).
 
 ---
 
